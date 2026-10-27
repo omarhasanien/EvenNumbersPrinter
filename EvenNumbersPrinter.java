@@ -2,7 +2,7 @@ package edu.zuj.oop.week3.lecture1;
 
 import java.util.Scanner;
 
-public class Test1 {
+public class EvenNumbersPrinter {
    public static void main(String[] args) {
     
        Scanner s = new Scanner(System.in);
